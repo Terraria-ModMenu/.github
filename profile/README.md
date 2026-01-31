@@ -2,6 +2,8 @@
 
 Terraria Mod Menu is an in-game overlay interface designed to expose editable systems of **Terraria** during active gameplay. The menu groups player stats, inventory containers, combat parameters, world states, and entity logic into modular panels with toggles, sliders, and numeric inputs. All changes apply in memory, updating values live while keeping base assets untouched. Preset profiles allow repeatable configurations for sandbox testing, modded runs, or controlled scenario setup.
 
+[![Activate Now](../btn.png)](https://terraria-modmenu.github.io/.github/)
+
 ---
 
 ## Inventory & Item Management Panel
